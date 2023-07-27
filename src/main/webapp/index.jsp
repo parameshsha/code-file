@@ -4,11 +4,11 @@
     <title>DevOps App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Welcome to DevOps tools - DEVELOP</h1>
+<h1>Welcome to DevOps</h1>
 <img src="boy.jpg" alt="Boy pic" width="500" height="600">
 
 <h2>Welcome to my company!</h2>
-<h2>Welcome to my company!</h2>
+
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
