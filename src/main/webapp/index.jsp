@@ -8,7 +8,7 @@
 <img src="boy.jpg" alt="Boy pic" width="500" height="600">
 
 <h2>Welcome to my company!</h2>
-
+<p>This Instance is running on <strong><%= request.getLocalAddr() %>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
