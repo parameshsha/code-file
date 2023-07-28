@@ -5,7 +5,7 @@
 </head>
 <body style="text-align: center">
 <h1>Welcome to DevOps</h1>
-<img src="boy.jpg" alt="Boy pic" width="500" height="600">
+<img src="logo.jpg" alt="Boy pic" width="500" height="600">
 
 <h2>Welcome to my company!</h2>
 <p>This Instance is running on <strong><%= request.getLocalAddr() %>
